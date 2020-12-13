@@ -1,0 +1,154 @@
+Topics Covered in this lecture:
+
+1. Introduction to Numpy
+2. Advantages of Numpy
+3. How to Import Numpy?
+4. Jupyter Notebook
+5. 1D Array
+6. 2D Array
+
+
+
+Python Programming Classes by Arvind Kharwal
+https://www.youtube.com/watch?v=uXcHsZtOfik&list=PLrwo9h9hEZSVwd5mLcAqnkxEK9oNSKmeI
+
+
+String in C Programming | Part 02
+https://www.youtube.com/watch?v=dK_6jNbejDs
+
+
+Structure in C Programming | Part 03
+https://www.youtube.com/watch?v=fiQkqKDUz5c
+
+
+Structure in C Programming Part 02
+https://www.youtube.com/watch?v=cv9QX4I4xCY
+
+
+Structure in C Programming | Part 01
+https://www.youtube.com/watch?v=_HqGGI7H__g
+
+Macros in C Programming
+https://www.youtube.com/watch?v=uvk1ccN-7TY
+
+
+Errors in C Programming
+https://www.youtube.com/watch?v=7LTb_y-N-Uo
+
+
+Translators in C Programming
+https://www.youtube.com/watch?v=mkf8VsVhn78
+
+
+How to create Virtual Environment in Python on Windows 10
+https://www.youtube.com/watch?v=vLI3VwkUzgc
+
+Recursion in C Programming
+https://www.youtube.com/watch?v=F462qByz6HU
+
+
+Parameter Passing in C Programming
+https://www.youtube.com/watch?v=jxOzlELM6oo
+
+
+Pointer in C Programming
+https://www.youtube.com/watch?v=0Qh9DpPbFUM
+
+
+Find Factorial of a given number using function | C Programming
+https://www.youtube.com/watch?v=YoydbuLsdS0
+
+
+Signed & Unsigned Int in C Programming
+https://www.youtube.com/watch?v=qEovYRpmcYc
+
+
+Arguments vs Parameters in Function | C Programming
+https://www.youtube.com/watch?v=6KcE0-jd0iU
+
+Function Programs | Function in C Programming Part - 05
+https://www.youtube.com/watch?v=INj0_LsxT7U
+
+Function in C Programming | Part - 03
+https://www.youtube.com/watch?v=KxGb1xKrWVA
+
+Introduction to Function in C Programming | Part - 02
+https://www.youtube.com/watch?v=FGNFjqGVJow
+
+Introduction to Function in C Programming | Part - 01
+https://www.youtube.com/watch?v=VPn-QEz96bo
+
+Packages in Python Programming
+https://www.youtube.com/watch?v=f8uWiNUbg_E
+
+Modules in Python Programming
+https://www.youtube.com/watch?v=uANeZd63o-U
+
+Storage Classes in C Programming | Part 02
+https://www.youtube.com/watch?v=_NGu5I311GM
+
+Key Terms of Machine Learning | Machine Learning
+https://www.youtube.com/watch?v=nFeo2dsZ3nU
+
+Storage Classes in C Programming
+https://www.youtube.com/watch?v=gvfXD6ks3Vg
+
+The Steps of Machine Learning 
+https://www.youtube.com/watch?v=Gvu6gmNEmr4
+
+Need & Types of Machine Learning | Machine Learning
+https://www.youtube.com/watch?v=pE9ShqnGSvA
+
+Introduction to Machine Learning
+https://www.youtube.com/watch?v=jfdxpR2BHls
+
+Function in Python Programming | Part 02
+https://www.youtube.com/watch?v=9WvWkPQllu0
+
+Function in Python Programming | Part 01
+https://www.youtube.com/watch?v=6Evm12hnUtM
+
+Popular Python Libraries in Python
+https://www.youtube.com/watch?v=07ISucgDOXQ
+
+Set in Python Programming | Part 03
+https://www.youtube.com/watch?v=5hAVt38CVFo
+
+Set in Python Programming | Part 02
+https://www.youtube.com/watch?v=d4ouZD_Jisg
+
+Set in Python Programming | Part 01
+https://www.youtube.com/watch?v=6wmrE18k-VE
+
+The matrix in Python Programming
+https://www.youtube.com/watch?v=O_xNJBmxkgg
+
+Array in Python Programming
+https://www.youtube.com/watch?v=o3Rhc9dN2Iw
+
+Dictionary in Python Programming
+https://www.youtube.com/watch?v=cfZdT0ElKJI
+
+Tuples in Python Programming
+https://www.youtube.com/watch?v=ib4Jsv3qy_U
+
+List in Python Programming
+https://www.youtube.com/watch?v=CusTmwjMGNE
+
+String in Python Programming
+https://www.youtube.com/watch?v=DnUcxHJ2Xzs
+
+Use of format function in string
+https://www.youtube.com/watch?v=Jmwcfk_bH3I
+
+Type Conversion in Python Programming
+https://youtu.be/ONUE3Ju5-wE
+
+Python Output using Print Function in Python Programming.
+https://www.youtube.com/watch?v=Jmwcfk_bH3I
+
+For Loop in Python Programming.
+https://www.youtube.com/watch?v=sHOPtIVwwd4
+
+Range Function in Python Programming. 
+https://www.youtube.com/watch?v=Tyob23klB1M
